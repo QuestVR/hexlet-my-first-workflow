@@ -1,2 +1,1 @@
-# hexlet-my-first-workflow
-ci project
+hexlet-my-first-workflow
